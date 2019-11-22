@@ -1,0 +1,20 @@
+﻿  SystemTest.cpp
+  System.cpp
+  RandomNumberGenerator.cpp
+  ProcessTest.cpp
+d:\faks\milos\3 god 1 sem\os2\git projekat\virtualmemorysystem\virtualmemorysystem\processtest.cpp(37): warning C4018: '<': signed/unsigned mismatch
+d:\faks\milos\3 god 1 sem\os2\git projekat\virtualmemorysystem\virtualmemorysystem\processtest.cpp(62): warning C4018: '<': signed/unsigned mismatch
+d:\faks\milos\3 god 1 sem\os2\git projekat\virtualmemorysystem\virtualmemorysystem\processtest.cpp(134): warning C4018: '<': signed/unsigned mismatch
+d:\faks\milos\3 god 1 sem\os2\git projekat\virtualmemorysystem\virtualmemorysystem\processtest.cpp(139): warning C4018: '<': signed/unsigned mismatch
+d:\faks\milos\3 god 1 sem\os2\git projekat\virtualmemorysystem\virtualmemorysystem\processtest.cpp(143): warning C4244: '=': conversion from 'VirtualAddress' to 'char', possible loss of data
+  Process.cpp
+  main.cpp
+d:\faks\milos\3 god 1 sem\os2\git projekat\virtualmemorysystem\virtualmemorysystem\main.cpp(32): warning C4244: 'initializing': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+d:\faks\milos\3 god 1 sem\os2\git projekat\virtualmemorysystem\virtualmemorysystem\main.cpp(36): warning C4244: 'initializing': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+  KernelSystem.cpp
+d:\faks\milos\3 god 1 sem\os2\git projekat\virtualmemorysystem\virtualmemorysystem\kernelsystem.cpp(132): warning C4101: 'pom': unreferenced local variable
+  KernelProcess.cpp
+  Generating Code...
+part.lib(part.obj) : warning LNK4099: PDB 'part.pdb' was not found with 'part.lib(part.obj)' or at 'D:\faks\milos\3 god 1 sem\os2\Git projekat\VirtualMemorySystem\Debug\part.pdb'; linking object as if no debug info
+part.lib(PartitionImpl.obj) : warning LNK4099: PDB 'part.pdb' was not found with 'part.lib(PartitionImpl.obj)' or at 'D:\faks\milos\3 god 1 sem\os2\Git projekat\VirtualMemorySystem\Debug\part.pdb'; linking object as if no debug info
+  VirtualMemorySystem.vcxproj -> D:\faks\milos\3 god 1 sem\os2\Git projekat\VirtualMemorySystem\Debug\VirtualMemorySystem.exe
