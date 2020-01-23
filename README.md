@@ -7,4 +7,4 @@ Segment sharing, process cloning, page swapping implemented.
 
 LRU algorithm implemented for page swapping.
 
-Application had one of the top 5 based on time, among 40 other tested.
+Application had one of the top 5 based on time, among 60 other tested.
